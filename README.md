@@ -10,8 +10,9 @@ Repositório para armazenar os resumos sobre Git e Github do curso de Versioname
 
 ## 💻 Resumos das Aulas
 
-| First Header  | Second Header |
+| Aula  | Resumo |
 | ------------- | ------------- |
-| Gravando Alterações no Repositório Local  | [Resumos]()  |
+| Aula 01  | [Resumos]()  |
+| Aula 02  | [Resumos]()  |
 
 
