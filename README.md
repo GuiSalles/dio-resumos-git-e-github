@@ -12,7 +12,7 @@ Repositório para armazenar os resumos sobre Git e Github do curso de Versioname
 
 | Aula  | Resumo |
 | ------------- | ------------- |
-| Aula 01  | [Resumos]()  |
-| Aula 02  | [Resumos]()  |
+| Aula 01  | [Resumos](https://github.com/GuiSalles/dio-resumos-git-e-github/blob/main/resumos/aula-01.md)  |
+| Aula 02  | [Resumos](https://github.com/GuiSalles/dio-resumos-git-e-github/blob/main/resumos/aula-02.md)  |
 
 
